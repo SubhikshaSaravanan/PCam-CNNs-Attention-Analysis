@@ -17,7 +17,10 @@ This contains the training process for the selected model which includes CNN + A
 ### How to Run?
 1. For ".ipnyb" files ( using Google Colab/Jupyter) - For google colab, Please use above corresponding links and paste in your Google Chrome browser. Navigate to the first cell, In the "Runtime" option in the menu bar, select "Run All". Similar steps to be followed for Jupyter.
 2. For ".py" file - Python needs to be installed on your local system. Please use either command line or any code editor to run the ".py" file
+   
 ### Requirements 
-Infrastructure supporting .ipnyb files i.e. either Google Colab or Jupyter. 
+Infrastructure supporting:
+1. ".ipnyb" files i.e. either Google Colab and Jupyter
+2. ".py" files.
 
 
