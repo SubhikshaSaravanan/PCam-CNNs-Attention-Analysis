@@ -8,16 +8,15 @@ This project explores the use of Convolutional Neural Networks (CNNs) enhanced w
 #### a) demo.py
 This contains the data loading, data prepreocessing/augmentation, EDA, selected model run, and model evaluation. No training is required to run this file. It directly imports the trained model. (placeholder google colab link)
 
-#### b) CNN_Training.py <placeholder name>
+#### b) CNN_Training.inpyb <placeholder name>
 This contains the training process for the baseline CNN model. (placeholder google colab link)
 
-#### c) CNN_Attention_Training <placeholder name>
+#### c) CNN_Attention_Training.ipnyb <placeholder name>
 This contains the training process for the selected model which includes CNN + Attention Architecture. (placeholder google colab link)
 
 ### How to Run?
-1. Google Colab - Please use above corresponding links and paste in your Google Chrome browser. Navigate to the first cell, In the "Runtime" option in the menu bar, select "Run All".
-2. Jupyter - Please ensure Jupyter is installed on your Local System. Similar options like above can be accessed then to Run The corresponding ".ipnyb" file from the repo. 
-
+1. For ".ipnyb" files ( using Google Colab/Jupyter) - For google colab, Please use above corresponding links and paste in your Google Chrome browser. Navigate to the first cell, In the "Runtime" option in the menu bar, select "Run All". Similar steps to be followed for Jupyter.
+2. For ".py" file - Python needs to be installed on your local system. Please use either command line or any code editor to run the ".py" file
 ### Requirements 
 Infrastructure supporting .ipnyb files i.e. either Google Colab or Jupyter. 
 
