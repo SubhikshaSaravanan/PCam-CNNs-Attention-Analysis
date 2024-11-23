@@ -6,7 +6,7 @@ This project explores the use of Convolutional Neural Networks (CNNs) enhanced w
 ## Files 
 
 #### a) demo.py
-This contains the data loading, data prepreocessing/augmentation, EDA, selected model run, and model evaluation. No training is required to run this file. It directly imports the trained model. (Also can be accessed through google colab at https://colab.research.google.com/drive/14106CorpVPzFnjmIrjifnQ1Sh6jdabXQ)
+This contains the data loading, data prepreocessing/augmentation, EDA, selected model run, and model evaluation. No training is required to run this file. It directly imports the trained model. (Also can be accessed through google colab at https://drive.google.com/file/d/1JRnXmQPl0BxD_LNqfIU3ELETqymIN-DB/view?usp=drive_link)
 
 #### b) CNN_GridSearch.ipnyb
 This contains code and method for getting best hyperparameters and parameters for our baseline CNN model. (Also can be accessed through google colab at https://drive.google.com/file/d/18Pjgwk8lPHcY4y7qs9PzvvPLEw5pgBjS/view?usp=drive_link)
