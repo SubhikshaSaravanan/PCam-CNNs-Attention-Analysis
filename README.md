@@ -17,10 +17,14 @@ This contains training and evaluation for the CNN with complete training set. (A
 #### d) Improved_CNN+Attention_layer_dataug_reg.ipnyb 
 This contains the training and evaluation for the selected model which includes CNN + Attention Architecture. (Also can be accessed through google colab at https://colab.research.google.com/drive/1gVk4dPkoGV3rCNqehqwLBhpHK9wkCLSo)
 
+#### e) final_model_attention_improved.h5
+This file contains the pre-trained weights for the improved CNN model with attention mechanisms. To use these weights for training, load the .h5 file into your model using TensorFlow/Keras.
+
 ## How to Run?
 1. For ".ipnyb" files ( using Google Colab/Jupyter) - For google colab, Please use above corresponding links and paste in your Google Chrome browser. Navigate to the first cell, In the "Runtime" option in the menu bar, select "Run All". Similar steps to be followed for Jupyter.
 2. For ".py" file - Python needs to be installed on your local system. Please use either command line or any code editor to run the ".py" file
-   
+3. For using ".h5" file for training - Load the weights into your model by adding the following line in your script or notebook: model.load_weights("final_model_attention_improved.h5")
+    
 ## Requirements 
 Infrastructure supporting:
 1. ".ipnyb" files i.e. either Google Colab or Jupyter
