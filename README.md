@@ -23,7 +23,7 @@ This file contains the pre-trained weights for the improved CNN model with atten
 ## How to Run?
 1. For ".ipnyb" files ( using Google Colab/Jupyter) - For google colab, Please use above corresponding links and paste in your Google Chrome browser. Navigate to the first cell, In the "Runtime" option in the menu bar, select "Run All". Similar steps to be followed for Jupyter.
 2. For ".py" file - Python needs to be installed on your local system. Please use either command line or any code editor to run the ".py" file
-3. For using ".h5" file for training - Load the weights into your model by adding the following line in your script or notebook: model.load_weights("final_model_attention_improved.h5")
+3. For using ".h5" file for training - Load the weights into your model by adding the following line in your script or notebook: model.load_weights("final_model_attention_improved.h5"). Please make sure that the downloaded weights are in the same folder as the demo.py OR the alterntative to run the demo.py is directly running the demo file from the colab link provided above.
     
 ## Requirements 
 Infrastructure supporting:
